@@ -1,11 +1,13 @@
-# Table of Contents
+Chengzhe's Tech Blogs
 
-## GPU Arch
+The blogs are mainly about topics like GPU arch, CUDA programming, deep learning compiler (LLVM, Triton, and MLIR), quantization, and deep learning algorithms.
 
-## CUDA Programming
+Please feel free to leave comments or contact me (prefer email) if you want to discuss or have any questions.
 
-## Deep learning compiler (LLVM, Triton, and MLIR)
-
-## Quantization
-
-## Deep learning algorithms
+Table of Contents
+- GPU Arch
+- CUDA Programming
+- Deep Learning Compiler
+    - [LLVM and MLIR](./_posts/2025-08-30-LLVM-and-MLIR.md)
+- Quantization
+- Deep learning algorithms
