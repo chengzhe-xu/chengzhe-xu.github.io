@@ -1,13 +1,13 @@
 title: "Chengzhe'x Tech Blogs"
 author: "Chengzhe Xu"
-description: "Chengzhe Xu's tech blogs. Main focus: GPU arch, CUDA programming, deep learning compiler (LLVM, Triton, and MLIR), quantization, and deep learning algorithms." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Main focus: GPU arch, CUDA programming, deep learning compiler (LLVM, Triton, and MLIR), quantization, deep learning algorithms." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "xuchengzhe2018@gmail.com"
 # twitter_username: "twitteruser"
 github_username: "chengzhe-xu"
-linkedin_username: "Chengzhe Xu"
+linkedin_username: "chengzhe-xu"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -20,7 +20,7 @@ linkedin_username: "Chengzhe Xu"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
